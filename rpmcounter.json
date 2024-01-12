@@ -1,1 +1,1 @@
-{}
+CSG vitamin_dShaft_3mm = Vitamins.get("dShaft", "3mm")
